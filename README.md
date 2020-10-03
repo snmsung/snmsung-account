@@ -1,0 +1,2 @@
+# snmsung-account
+delete 
